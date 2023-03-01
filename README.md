@@ -1,6 +1,20 @@
-# Auto Post Tagging Plugin
+# Auto Post Tagging Plugin for WordPress
 
 Auto Post Tagging is a WordPress plugin that automatically selects the most used words in a post and adds them as tags. The plugin can be configured to add tags when a post is published or when it is being written. Additionally, users can select how many tags should be automatically generated for each post.
+
+## Why Use Auto Post Tagging?
+
+Using tags can help to improve your WordPress site's search engine optimization (SEO) by making it easier for users to find related content. However, manually adding tags to each post can be time-consuming and tedious. Auto Post Tagging streamlines the process by automatically generating tags based on the content of your posts, saving you time and effort.
+
+By using Auto Post Tagging, you can:
+
+- Improve your site's SEO by adding relevant tags to each post
+- Save time by automatically generating tags instead of manually adding them
+- Streamline your content creation process by focusing on writing instead of tagging
+
+## Purchase Auto Post Tagging
+
+To purchase Auto Post Tagging, please visit our [Codecanyon page](https://codecanyon.net/). 
 
 ## Requirements
 
@@ -51,8 +65,8 @@ You can use custom CSS to style the plugin output. See the CSS option in the plu
 
 ## Get Support for Plugin Issues
 
-If you need help with this plugin or would like to report a bug, please contact the developer at support@autoposttaggingplugin.com or submit an issue on the plugin's [GitHub repository](https://github.com/autoposttaggingplugin/). 
+If you need help with this plugin or would like to report a bug, please contact the developer or submit an issue on the plugin's [GitHub repository](https://github.com/imTaherS/Auto-Post-Tagging/). 
 
 ## Contributing
 
-We welcome contributions from the community. Please see our [Contributing Guidelines](https://github.com/autoposttaggingplugin/contributing) for more information.
+We welcome contributions from the community. Please see our [Contributing Guidelines](https://github.com/imTaherS/Auto-Post-Tagging/) for more information.
